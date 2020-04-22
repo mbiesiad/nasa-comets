@@ -7,6 +7,8 @@
 
 _Available formats: csv, json._
 
+![](https://github.com/mbiesiad/nasa-comets/blob/master/media/kreutzmb-17-3-3-clipboard.png)
+
 # Content
 
 * [Discoveries](#discoveries)
@@ -25,6 +27,14 @@ _Available formats: csv, json._
 * [License](#license)
 
 # Discoveries
+
+![SOHO-3277-c2](https://github.com/mbiesiad/nasa-comets/blob/master/media/20170303_2212_c2_1024b.jpg)
+
+_C/2017 SOHO-3277  –  (New „Kreutz” group comet, C2) 2017/3/2_
+
+![SOHO-3277-c3](https://github.com/mbiesiad/nasa-comets/blob/master/media/20170303_1806_c3_1024.jpg)
+
+_C/2017 SOHO-3277  –  (New „Kreutz” group comet, C3) 2017/3/2_
 
 ## CSV format
 
@@ -59,6 +69,8 @@ Source: [Sungrazer Project Site](https://sungrazer.nrl.navy.mil/)
 [Non group](https://sungrazer.nrl.navy.mil/index.php?p=tables/comets_other)
 
 [STEREO](https://sungrazer.nrl.navy.mil/index.php?p=tables/comets_table_secchi)
+
+![neat-comet](https://github.com/mbiesiad/nasa-comets/blob/master/media/neat-comet.png)
 
 # Disclaimer
 
