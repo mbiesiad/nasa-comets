@@ -1,0 +1,772 @@
+[
+ {
+   "PERIHELION DATE": "1998-01-13.26",
+   "COMET DESIGNATION": "C/1998 A1 SOHO-37",
+   "COMET DISCOVERER": "C. St. Cyr",
+   "TELESCOPE": "C3",
+   "PERIHELION DISTANCE": 0.0054,
+   "ORBIT UPDATES": 6811,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-01-26.15",
+   "COMET DESIGNATION": "C/1998 B2 SOHO-254",
+   "COMET DISCOVERER": "J. Danaher",
+   "TELESCOPE": "C2 C3",
+   "PERIHELION DISTANCE": 0.0049,
+   "ORBIT UPDATES": 7558,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-03-03.69",
+   "COMET DESIGNATION": "C/1998 E1 SOHO-43",
+   "COMET DISCOVERER": "D. Biesecker",
+   "TELESCOPE": "C3",
+   "PERIHELION DISTANCE": 0.0053,
+   "ORBIT UPDATES": 6837,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-03-22.43",
+   "COMET DESIGNATION": "C/1998 F1 SOHO-44",
+   "COMET DISCOVERER": "D. Biesecker",
+   "TELESCOPE": "C2 C3",
+   "PERIHELION DISTANCE": 0.0095,
+   "ORBIT UPDATES": 6862,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-03-28.19",
+   "COMET DESIGNATION": "C/1998 F2 SOHO-202",
+   "COMET DISCOVERER": "M. Meyer",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.005,
+   "ORBIT UPDATES": 7485,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-02.42",
+   "COMET DESIGNATION": "C/1998 G2 SOHO-45",
+   "COMET DISCOVERER": "D. Biesecker",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0049,
+   "ORBIT UPDATES": 6879,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-06.72",
+   "COMET DESIGNATION": "C/1998 G5 SOHO-186",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.005,
+   "ORBIT UPDATES": 7480,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-07.15",
+   "COMET DESIGNATION": "C/1998 G6 SOHO-187",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0053,
+   "ORBIT UPDATES": 7480,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-07.89",
+   "COMET DESIGNATION": "C/1998 G7 SOHO-188",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0079,
+   "ORBIT UPDATES": 7480,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-09.98",
+   "COMET DESIGNATION": "C/1998 G8 SOHO-192",
+   "COMET DISCOVERER": "D. Hammer",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.005,
+   "ORBIT UPDATES": 7480,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-11.46",
+   "COMET DESIGNATION": "C/1998 G4 SOHO-47",
+   "COMET DISCOVERER": "K. Schenk",
+   "TELESCOPE": "C2 C3",
+   "PERIHELION DISTANCE": 0.0092,
+   "ORBIT UPDATES": 6952,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-20.58",
+   "COMET DESIGNATION": "C/1998 H5 SOHO-393",
+   "COMET DISCOVERER": "S. Hoenig",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0049,
+   "ORBIT UPDATES": 7842,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-20.61",
+   "COMET DESIGNATION": "C/1998 H6 SOHO-394",
+   "COMET DISCOVERER": "S. Hoenig",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.005,
+   "ORBIT UPDATES": 7842,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-26.87",
+   "COMET DESIGNATION": "C/1998 H3 SOHO-194",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0054,
+   "ORBIT UPDATES": 7480,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-28.32",
+   "COMET DESIGNATION": "C/1998 H4 SOHO-193",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.005,
+   "ORBIT UPDATES": 7480,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-04-30.78",
+   "COMET DESIGNATION": "C/1998 H2 SOHO-48",
+   "COMET DISCOVERER": "S. Stezelberger",
+   "TELESCOPE": "C2 C3",
+   "PERIHELION DISTANCE": 0.0067,
+   "ORBIT UPDATES": 6952,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-05.07",
+   "COMET DESIGNATION": "C/1998 J3 SOHO-136",
+   "COMET DISCOVERER": "D. Hammer",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0058,
+   "ORBIT UPDATES": 7445,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-06.65",
+   "COMET DESIGNATION": "C/1998 J4 SOHO-137",
+   "COMET DISCOVERER": "D. Hammer",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0049,
+   "ORBIT UPDATES": 7445,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-11.68",
+   "COMET DESIGNATION": "C/1998 J2 SOHO-50",
+   "COMET DISCOVERER": "D. Biesecker",
+   "TELESCOPE": "C2 C3",
+   "PERIHELION DISTANCE": 0.0055,
+   "ORBIT UPDATES": 6952,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-12.58",
+   "COMET DESIGNATION": "C/1998 J5 SOHO-1144",
+   "COMET DISCOVERER": "H.Su",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0052,
+   "ORBIT UPDATES": null,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-17.65",
+   "COMET DESIGNATION": "C/1998 K7 SOHO-51",
+   "COMET DISCOVERER": "A. Vourlidas",
+   "TELESCOPE": "C2 C3",
+   "PERIHELION DISTANCE": 0.0058,
+   "ORBIT UPDATES": 6952,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-20.22",
+   "COMET DESIGNATION": "C/1998 K8 SOHO-52",
+   "COMET DISCOVERER": "D. Biesecker",
+   "TELESCOPE": "C2 C3",
+   "PERIHELION DISTANCE": 0.0064,
+   "ORBIT UPDATES": 6952,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-21.40",
+   "COMET DESIGNATION": "C/1998 K12 SOHO-140",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0063,
+   "ORBIT UPDATES": 7445,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-22.23",
+   "COMET DESIGNATION": "C/1998 K13 SOHO-139",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.009,
+   "ORBIT UPDATES": 7445,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-26.83",
+   "COMET DESIGNATION": "C/1998 K14 SOHO-142",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0051,
+   "ORBIT UPDATES": 7445,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-29.07",
+   "COMET DESIGNATION": "C/1998 K9 SOHO-53",
+   "COMET DISCOVERER": "S. Stezelberger",
+   "TELESCOPE": "C2 C3",
+   "PERIHELION DISTANCE": 0.0056,
+   "ORBIT UPDATES": 6952,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-29.11",
+   "COMET DESIGNATION": "C/1998 K15 SOHO-143",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0078,
+   "ORBIT UPDATES": 7445,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-29.81",
+   "COMET DESIGNATION": "C/1998 K16 SOHO-145",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0058,
+   "ORBIT UPDATES": 7450,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-05-31.55",
+   "COMET DESIGNATION": "C/1998 K17 SOHO-146",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0087,
+   "ORBIT UPDATES": 7450,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-01.88",
+   "COMET DESIGNATION": "C/1998 K10 SOHO-54",
+   "COMET DISCOVERER": "K. Schenk",
+   "TELESCOPE": "C2 C3",
+   "PERIHELION DISTANCE": 0.0058,
+   "ORBIT UPDATES": 6952,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-02.06",
+   "COMET DESIGNATION": "C/1998 K11 SOHO-55",
+   "COMET DISCOVERER": "K. Schenk",
+   "TELESCOPE": "C2 C3",
+   "PERIHELION DISTANCE": 0.005,
+   "ORBIT UPDATES": 6952,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-02.73",
+   "COMET DESIGNATION": "C/1998 L10 SOHO-1115",
+   "COMET DISCOVERER": "R. Kracht",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0079,
+   "ORBIT UPDATES": null,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-04.01",
+   "COMET DESIGNATION": "C/1998 L2 SOHO-152",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0052,
+   "ORBIT UPDATES": 7451,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-04.54",
+   "COMET DESIGNATION": "C/1998 L3 SOHO-148",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.005,
+   "ORBIT UPDATES": 7451,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-05.42",
+   "COMET DESIGNATION": "C/1998 L4 SOHO-149",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0052,
+   "ORBIT UPDATES": 7451,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-05.87",
+   "COMET DESIGNATION": "C/1998 L5 SOHO-150",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0055,
+   "ORBIT UPDATES": 7451,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-06.28",
+   "COMET DESIGNATION": "C/1998 L6 SOHO-151",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0057,
+   "ORBIT UPDATES": 7451,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-06.96",
+   "COMET DESIGNATION": "C/1998 L7 SOHO-153",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0084,
+   "ORBIT UPDATES": 7452,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-08.76",
+   "COMET DESIGNATION": "C/1998 L8 SOHO-154",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0071,
+   "ORBIT UPDATES": 7452,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-11.49",
+   "COMET DESIGNATION": "C/1998 L1 SOHO-56",
+   "COMET DISCOVERER": "S. Stezelberger",
+   "TELESCOPE": "C2  C3",
+   "PERIHELION DISTANCE": 0.0075,
+   "ORBIT UPDATES": 6984,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-12.69",
+   "COMET DESIGNATION": "C/1998 L9 SOHO-155",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0048,
+   "ORBIT UPDATES": 7452,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-17.23",
+   "COMET DESIGNATION": "C/1998 M7 SOHO-57",
+   "COMET DISCOVERER": "D. Biesecker",
+   "TELESCOPE": "C2  C3",
+   "PERIHELION DISTANCE": 0.0054,
+   "ORBIT UPDATES": 6984,
+   "Auto": {
+      "Vis. Disc.": "A"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-19.84",
+   "COMET DESIGNATION": "C/1998 M8 SOHO-159",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0055,
+   "ORBIT UPDATES": 7452,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-22.08",
+   "COMET DESIGNATION": "C/1998 M9 SOHO-160",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0061,
+   "ORBIT UPDATES": 7452,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-06-24.04",
+   "COMET DESIGNATION": "C/1998 M10 SOHO-161",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0064,
+   "ORBIT UPDATES": 7452,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-10-15.57",
+   "COMET DESIGNATION": "C/1998 T2 SOHO-1110",
+   "COMET DISCOVERER": "R. Kracht",
+   "TELESCOPE": "C3",
+   "PERIHELION DISTANCE": 0.0049,
+   "ORBIT UPDATES": null,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-10-27.67",
+   "COMET DESIGNATION": "C/1998 U7 SOHO-928",
+   "COMET DISCOVERER": "X.Leprette",
+   "TELESCOPE": "C3",
+   "PERIHELION DISTANCE": 0.0067,
+   "ORBIT UPDATES": null,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-10-29.66",
+   "COMET DESIGNATION": "C/1998 U6 SOHO-272",
+   "COMET DISCOVERER": "X. Leprette",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0054,
+   "ORBIT UPDATES": 7565,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-02.97",
+   "COMET DESIGNATION": "C/1998 V5 SOHO-264",
+   "COMET DISCOVERER": "X. Leprette",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0067,
+   "ORBIT UPDATES": 7565,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-03.01",
+   "COMET DESIGNATION": "C/1998 V6 SOHO-265",
+   "COMET DISCOVERER": "X. Leprette",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0079,
+   "ORBIT UPDATES": 7565,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-04.92",
+   "COMET DESIGNATION": "C/1998 V1 SOHO-121",
+   "COMET DISCOVERER": "D. Hammer & D. Biesecker",
+   "TELESCOPE": "C2  C3",
+   "PERIHELION DISTANCE": 0.0049,
+   "ORBIT UPDATES": 7435,
+   "Auto": {
+      "Vis. Disc.": "A"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-07.56",
+   "COMET DESIGNATION": "C/1998 V7 SOHO-302",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0048,
+   "ORBIT UPDATES": 7612,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-07.68",
+   "COMET DESIGNATION": "C/1998 V2 SOHO-252",
+   "COMET DISCOVERER": "X. Leprette",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0053,
+   "ORBIT UPDATES": 7558,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-07.71",
+   "COMET DESIGNATION": "C/1998 V3 SOHO-253",
+   "COMET DISCOVERER": "X. Leprette",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0055,
+   "ORBIT UPDATES": 7558,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-08.64",
+   "COMET DESIGNATION": "C/1998 V9 SOHO-438",
+   "COMET DISCOVERER": "X. Leprette",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0072,
+   "ORBIT UPDATES": 7916,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-09.53",
+   "COMET DESIGNATION": "C/1998 V4 SOHO-261",
+   "COMET DISCOVERER": "X. Leprette",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.005,
+   "ORBIT UPDATES": 7558,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-24.59",
+   "COMET DESIGNATION": "C/1998 W4 SOHO-256",
+   "COMET DISCOVERER": "X. Leprette",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0057,
+   "ORBIT UPDATES": 7558,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-25.19",
+   "COMET DESIGNATION": "C/1998 W5 SOHO-257",
+   "COMET DISCOVERER": "X. Leprette",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0082,
+   "ORBIT UPDATES": 7558,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-26.00",
+   "COMET DESIGNATION": "C/1998 W6 SOHO-260",
+   "COMET DISCOVERER": "X. Leprette",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0064,
+   "ORBIT UPDATES": 7558,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-11-30.43",
+   "COMET DESIGNATION": "C/1998 W8 SOHO-1109",
+   "COMET DISCOVERER": "R. Kracht",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0052,
+   "ORBIT UPDATES": null,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-12-05.96",
+   "COMET DESIGNATION": "C/1998 X3 SOHO-238",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0053,
+   "ORBIT UPDATES": 7536,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-12-07.41",
+   "COMET DESIGNATION": "C/1998 X12 SOHO-440",
+   "COMET DISCOVERER": "M. Meyer",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0048,
+   "ORBIT UPDATES": 7916,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-12-08.26",
+   "COMET DESIGNATION": "C/1998 X4 SOHO-242",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0057,
+   "ORBIT UPDATES": 7536,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-12-09.19",
+   "COMET DESIGNATION": "C/1998 X11 SOHO-262",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0049,
+   "ORBIT UPDATES": 7565,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-12-09.58",
+   "COMET DESIGNATION": "C/1998 X5 SOHO-244",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0057,
+   "ORBIT UPDATES": 7536,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-12-10.10",
+   "COMET DESIGNATION": "C/1998 X6 SOHO-245",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.006,
+   "ORBIT UPDATES": 7536,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-12-10.31",
+   "COMET DESIGNATION": "C/1998 X7 SOHO-243",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0058,
+   "ORBIT UPDATES": 7536,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-12-12.35",
+   "COMET DESIGNATION": "C/1998 X8 SOHO-246",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0055,
+   "ORBIT UPDATES": 7536,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-12-14.64",
+   "COMET DESIGNATION": "C/1998 X9 SOHO-250",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.0053,
+   "ORBIT UPDATES": 7558,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+},
+ {
+   "PERIHELION DATE": "1998-12-14.65",
+   "COMET DESIGNATION": "C/1998 X10 SOHO-251",
+   "COMET DISCOVERER": "M. Oates",
+   "TELESCOPE": "C2",
+   "PERIHELION DISTANCE": 0.005,
+   "ORBIT UPDATES": 7558,
+   "Auto": {
+      "Vis. Disc.": "V"
+   }
+}
+]
