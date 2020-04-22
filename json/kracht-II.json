@@ -1,0 +1,79 @@
+[
+ {
+   "DATE": "1999 Sep 5.52",
+   "NAME": "C/1999 R1 SOHO-085",
+   "DISCOVERER": "T.Lovejoy",
+   "TELESCOPE": "C2 C3",
+   "q": 0.0565,
+   "IAUC": 7251,
+   "V": {
+      "A": "V"
+   }
+},
+ {
+   "DATE": "2002 Sep 5.79",
+   "NAME": "C/2002 R5 SOHO-513",
+   "DISCOVERER": "R.Matson",
+   "TELESCOPE": "C2 C3",
+   "q": 0.0472,
+   "IAUC": 7984,
+   "V": {
+      "A": "V"
+   }
+},
+ {
+   "DATE": "2003 Sep 8.81",
+   "NAME": "C/2003 R5 SOHO-661",
+   "DISCOVERER": "K.Cernis",
+   "TELESCOPE": "C2 C3",
+   "q": 0.0569,
+   "IAUC": 8340,
+   "V": {
+      "A": "V"
+   }
+},
+ {
+   "DATE": "2008 Jun 10.15",
+   "NAME": "C/2008 L7 SOHO-1488",
+   "DISCOVERER": "R.Kracht",
+   "TELESCOPE": "C2",
+   "q": 0.0455,
+   "IAUC": null,
+   "V": {
+      "A": "V"
+   }
+},
+ {
+   "DATE": "2008 Jun 10.17",
+   "NAME": "C/2008 L6 SOHO-1487",
+   "DISCOVERER": "R.Kracht",
+   "TELESCOPE": "C2",
+   "q": 0.0457,
+   "IAUC": null,
+   "V": {
+      "A": "V"
+   }
+},
+ {
+   "DATE": "2014 ",
+   "NAME": "C/2014 SOHO-2673 ",
+   "DISCOVERER": "Z.Xu ",
+   "TELESCOPE": "C2 C3 ",
+   "q": null,
+   "IAUC": null,
+   "V": {
+      "A": "V"
+   }
+},
+ {
+   "DATE": "2014 ",
+   "NAME": "C/2014 SOHO-2712 ",
+   "DISCOVERER": "Z.Xu ",
+   "TELESCOPE": "C2 ",
+   "q": null,
+   "IAUC": null,
+   "V": {
+      "A": "V"
+   }
+}
+]
