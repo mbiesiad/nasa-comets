@@ -98,6 +98,8 @@ Sources: [Sungrazer Project Site](https://sungrazer.nrl.navy.mil/)
 
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
 
+_If you want delete your name - please create an issue or contact with me directly._
+
 # Contributing
 
 Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
