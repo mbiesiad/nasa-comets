@@ -1,5 +1,7 @@
 Created similar like here (archive since 2016): https://github.com/mbiesiad/nasa-comets/tree/master/since-2016
 
+STEREO comets
+
 # Table
 
 * [stereo.csv](https://github.com/mbiesiad/nasa-comets/blob/master/stereo/since-2016/stereo.csv)
