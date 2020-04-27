@@ -13,6 +13,8 @@ If you want add or improve something - just make a fork & PR, fell free.
 
 ✅ Add discoveries for >=2016
 
+_Update: last updated 2020/4/27_
+
 ## Translations
 
 For translations please make other branch for your changes & before PR (ie. for Spain will be: es_ES etc).
