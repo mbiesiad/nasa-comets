@@ -6,6 +6,8 @@
 
 _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.navy.mil/)_
 
+List of discoveries (SOHO/STEREO). Data from official site of Project. Facilitation for analyzing and changing data formats.
+
 _Available formats: csv, json._
 
 ![Kreutz](https://github.com/mbiesiad/nasa-comets/blob/master/media/kreutzmb-17-3-3-clipboard.png)
