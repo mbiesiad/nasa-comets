@@ -1,5 +1,7 @@
 # Table
 
+SOHO comets
+
 2020
 * [General](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016/2020)
 * [discoveries-2020.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2020/discoveries-2020.csv)
