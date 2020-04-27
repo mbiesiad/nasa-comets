@@ -75,7 +75,7 @@ Soho#,Date/Time of Post,Discoverer,Tel,Group,Images of
 3558,Jun20 2018 09:51:31, M.Uchina, C2, Kreutz,Jun20 2018
 3559,Jun21 2018 06:40:01, M.Uchina, C2, Kreutz,Jun21 2018
 3560,Jun23 2018 11:05:47, Boonplod/Uchina, C3 C2, Kreutz,Jun23 2018
-3561,Jun24 2018 10:32:40, R.Kracht, C2, Marsden Jun24 2018
+3561,Jun24 2018 10:32:40, R.Kracht, C2, Marsden, Jun24 2018
 3562,Jun24 2018 17:51:04, M.Uchina,C3 C2, Kreutz,Jun24-26 2018
 3563,Jun26 2018 19:28:39, M.Uchina,C3 C2, Kreutz,Jun26-27 2018
 3564,Jun26 2018 23:02:58, W.Boonplod, C3, Kreutz,Jun27 2018
@@ -97,7 +97,7 @@ Soho#,Date/Time of Post,Discoverer,Tel,Group,Images of
 3580,Jul30 2018 10:04:03, W.Boonplod, C3, Kreutz,Jul30 2018
 3581,Jul31 2018 15:46:52, W.Boonplod,C3 C2, Kreutz,Jul31-Aug01 2018
 3582,Aug01 2018 03:30:10, W.Boonplod, C3, Kreutz,Jul31-Aug01 2018
-3583,Aug11 2018 08:16:14, R.Kracht, C2, Marsden Aug09 2018
+3583,Aug11 2018 08:16:14, R.Kracht, C2, Marsden, Aug09 2018
 3584,Aug12 2018 10:17:20, M.Uchina, C2, Meyer, Aug09 2018
 3585,Aug13 2018 03:47:22, W.Boonplod, C3, Kreutz,Aug13 2018
 3586,Aug19 2018 04:29:00, W.Boonplod, C3, Kreutz,Aug19 2018
@@ -152,8 +152,8 @@ Soho#,Date/Time of Post,Discoverer,Tel,Group,Images of
 3635,Oct30 2018 13:54:02, W.Boonplod, C3 C2,Kreutz,Oct30-31 2018
 3636,Nov01 2018 16:14:42, W.Boonplod, C3 C2,Kreutz,Nov01-02 2018
 3637,Nov04 2018 04:51:46, W.Boonplod,H1 C3 C2,Kreutz,Nov04 2018
-3638,Nov05 2018 15:30:44, W.Boonplod, C2, Marsden Nov05 2018
-3639,Nov06 2018 16:44:36, W.Boonplod, C2, Marsden Nov06-07 2018
+3638,Nov05 2018 15:30:44, W.Boonplod, C2, Marsden, Nov05 2018
+3639,Nov06 2018 16:44:36, W.Boonplod, C2, Marsden, Nov06-07 2018
 3640,Nov06 2018 18:39:58, W.Boonplod, C2, Kreutz,Nov05 2018
 3641,Nov06 2018 22:40:28, M.Uchina, C2, Kreutz,Nov06 2018
 3642,Nov08 2018 15:47:44, W.Boonplod,H1 C3 C2,Kreutz,Nov08-09 2018
