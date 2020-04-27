@@ -6,7 +6,7 @@
 
 _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.navy.mil/)_
 
-List of discoveries (SOHO/STEREO). Data from official site of Project. Facilitation for analyzing and changing data formats.
+List of discoveries (SOHO/STEREO). Data from official site of Project. Facilitating analysis and revision of data formats.
 
 _Available formats: csv, json._
 
