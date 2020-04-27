@@ -1,3 +1,26 @@
+# Table
+
+2020
+* [General](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016/2020)
+* [discoveries-2020.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2020/discoveries-2020.csv)
+
+2019
+* [General](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016/2019)
+* [discoveries-2019.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2019/discoveries-2019.csv)
+
+2018
+* [General](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016/2018)
+* [discoveries-2018.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2018/discoveries-2018.csv)
+
+2017
+* [General](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016/2017)
+* [discoveries-2017.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2017/discoveries-2017.csv)
+
+2016
+* [General](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016/2016)
+* [discoveries-2016.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2016/discoveries-2016.csv)
+
+
 # Sources:
 
 for
