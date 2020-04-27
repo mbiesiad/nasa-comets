@@ -48,7 +48,7 @@ Soho#,Date/Time of Post,Discoverer,Tel,Group,Images of
 3724,Apr26 2019 13:15:48, W.Boonplod,C2, Kreutz,Apr26 2019
 3725,Apr26 2019 13:20:11, W.Boonplod, C2, Kreutz,Apr26 2019
 3726,Apr27 2019 23:02:55, W.Boonplod, C2, Kreutz,Apr27-28 2019
-3727,Apr28 2019 12:02:26, W.Boonplod,C3,C2, Kreutz,Apr28-29 2019
+3727,Apr28 2019 12:02:26, W.Boonplod,C3 C2, Kreutz,Apr28-29 2019
 3728,May01 2019 07:38:51, M.Uchina, C2, Kreutz,Apr29 2019
 3729,May01 2019 07:35:50, M.Uchina, C2, Kreutz,Apr30 2019
 3730,May02 2019 21:25:09, W.Boonplod, C2, Kreutz,May02 2019
@@ -175,7 +175,7 @@ XC91,Aug10 2019 16:48:01	,S.Liwo, C2, Krz/NG?, Aug10 2019
 3849,Nov03 2019 01:23:55, W.Boonplod, C2,Kreutz,Nov03 2019
 3850,Nov04 2019 19:31:59, W.Boonplod,C3 C2,Meyer, Nov04-05 2019
 3851,Nov05 2019 07:22:02, R.Kracht, C2,Meyer, Nov04 2019
-3852,Dec07 2019 11:03am,,P.Berrett,C2,Meyer, Nov04-05 2019
+3852,Dec07 2019 11:03am,P.Berrett,C2,Meyer, Nov04-05 2019
 3853,Nov06 2019 10:08:00, W.Boonplod,H1 C3,NonGrp,Nov05-07 2019
 3854,Nov07 2019 22:04:54, M.Uchina, C2,Kreutz,Nov07-08 2019
 3855,Nov09 2019 15:21:07, M.Uchina, C2,Kreutz,Nov09 2019
@@ -193,21 +193,21 @@ XC91,Aug10 2019 16:48:01	,S.Liwo, C2, Krz/NG?, Aug10 2019
 3867,Nov25 2019 20:05:24, W.Boonplod, H1 SC2 C3/2, Kreutz,Nov25-27 2019
 XC93,Nov26 2019 05:02:37, M.Uchina, C2,Kreutz,Nov26 2019
 3868,Nov27 2019 01:46:16, Z.Xu, C2,Kreutz,Nov27 2019
-3869,Nov27 2019 11:23:44, Z.Xu,H1,C2,Kreutz,Nov27 2019
-3870,Nov28 2019 06:11:51, R.Kracht, C2,KrchtII Nov27 2019
-3871,Nov28 2019 06:27:01, M.Uchina,H1,C2,Kreutz,Nov28 2019
+3869,Nov27 2019 11:23:44, Z.Xu,H1 C2,Kreutz,Nov27 2019
+3870,Nov28 2019 06:11:51, R.Kracht, C2,KrachtII Nov27 2019
+3871,Nov28 2019 06:27:01, M.Uchina,H1 C2,Kreutz,Nov28 2019
 3872,Nov29 2019 10:49:55, W.Boonplod, C2,Meyer, Nov29 2019
 3873,Dec01 2019 04:07:32, W.Boonplod,H1 C2 C3, Kreutz,Nov30-Dec02 2019
 3874,Dec02 2019 02:40:12, T.Prestgard, H1 C2,Kreutz,Dec02 2019
-3875,Dec04 2019 06:59:39, M.Uchina,,,H1 C2,Kreutz,Dec04 2019
-3876,Dec05 2019 09:26:09, Z.Xu,,,,, C2,Kreutz,Dec05 2019
-3877,Dec06 2019 10:54:55, W.Boonplod,, C2,KrachtII Dec06 2019
-3878,Dec07 2019 03:48:11, M.Uchina,,,H1 C2,Kreutz,Dec07 2019 
-3879,Dec08 2019 20:07:26, W.Boonplod,, C2,Meyer, Dec08 2019
-3880,Dec09 2019 05:22:39, M.Uchina,,,H1 C2,Kreutz,Dec09 2019
-3881,Dec10 2019 05:22:50, W.Boonplod,H1 C2 C3, Kreutz,Dec10-11 2019,
-3882,Dec13 2019 00:14:48, W.Boonplod,,C2 C3,KrchtII Dec12-13 2019
-3883,Dec18 2019 05:00:57, W.Boonplod,,H1 C2,Kreutz,Dec18 2019
+3875,Dec04 2019 06:59:39, M.Uchina,H1 C2,Kreutz,Dec04 2019
+3876,Dec05 2019 09:26:09, Z.Xu, C2,Kreutz,Dec05 2019
+3877,Dec06 2019 10:54:55, W.Boonplod, C2,KrachtII Dec06 2019
+3878,Dec07 2019 03:48:11, M.Uchina,H1 C2,Kreutz,Dec07 2019 
+3879,Dec08 2019 20:07:26, W.Boonplod, C2,Meyer, Dec08 2019
+3880,Dec09 2019 05:22:39, M.Uchina,H1 C2,Kreutz,Dec09 2019
+3881,Dec10 2019 05:22:50, W.Boonplod,H1 C2 C3, Kreutz,Dec10-11 2019
+3882,Dec13 2019 00:14:48, W.Boonplod,C2 C3,KrchtII Dec12-13 2019
+3883,Dec18 2019 05:00:57, W.Boonplod,H1 C2,Kreutz,Dec18 2019
 3884,Dec19 2019 16:04:25	,M.Uchina,H1 C2,Kreutz,Dec19 2019
 3885,Dec20 2019 06:19:17, R.Kracht, C2,KrachtII Dec19 2019
 3886,Dec20 2019 19:42:08, W.Boonplod,H1 C2 C3, Kreutz,Dec20-21 2019
