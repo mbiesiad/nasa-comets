@@ -136,6 +136,8 @@ Free [MIT](LICENSE) license.
 
 __________________________________________________
 
+Reports by @[Karl Battams](https://twitter.com/SungrazerComets) (Dr Sungrazer)
+
 Created by @[mbiesiad](https://github.com/mbiesiad)
 
 Last updated: 27/4/2020
