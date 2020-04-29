@@ -18,12 +18,12 @@ _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.
 
 * [Discoveries](#discoveries)
 * [CSV format](#csv-format)
+    * [Since 2016](#since-2016)
     * [Kracht](#kracht)
     * [Kreutz](#kreutz)
     * [Marsden](#marsden)
     * [Meyer](#meyer)
     * [STEREO](#stereo)
-    * [Since 2016](#since-2016)
 * [JSON format](#json-format)
 * [Data](#data)
 * [Disclaimer](#disclaimer)
@@ -45,6 +45,20 @@ _C/2017 SOHO-3277  –  (New „Kreutz” group comet, C3) 2017/3/2_
 _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.navy.mil/)_
 
 ## CSV format
+
+## Since 2016
+* [SOHO](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016)
+   * [discoveries-2020.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2020/discoveries-2020.csv)
+   * [discoveries-2019.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2019/discoveries-2019.csv)
+   * [discoveries-2018.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2018/discoveries-2018.csv)
+   * [discoveries-2017.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2017/discoveries-2017.csv)
+   * [discoveries-2016.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2016/discoveries-2016.csv)
+* [STEREO](https://github.com/mbiesiad/nasa-comets/tree/master/stereo/since-2016)
+
+# Drafts
+
+I decided to create a [drafts](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016/2020/drafts) for _smaller_, partial updates - you can use use it before _main_ update for each year/month.
+If you want add, please name like in an example '[reports-2020-4-15.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2020/drafts/reports-2020-4-15.csv)' (date format: y-m-d; date of partial update post on the site), thanks!
 
 ## [Kracht](https://github.com/mbiesiad/nasa-comets/tree/master/kracht)   
 * [kracht.csv](https://github.com/mbiesiad/nasa-comets/blob/master/kracht/kracht.csv)
@@ -77,9 +91,6 @@ _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.
 * [meyer.csv](https://github.com/mbiesiad/nasa-comets/blob/master/meyer/meyer.csv)
 ## [STEREO](https://github.com/mbiesiad/nasa-comets/tree/master/stereo)
 * [stereo-secchi.csv](https://github.com/mbiesiad/nasa-comets/blob/master/stereo/stereo-secchi.csv)
-## Since 2016
-* [SOHO](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016)
-* [STEREO](https://github.com/mbiesiad/nasa-comets/tree/master/stereo/since-2016)
     
 ## JSON format
 
