@@ -19,6 +19,7 @@ _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.
 * [Discoveries](#discoveries)
 * [CSV format](#csv-format)
     * [Since 2016](#since-2016)
+    * [Drafts](#drafts)
     * [Kracht](#kracht)
     * [Kreutz](#kreutz)
     * [Marsden](#marsden)
@@ -55,7 +56,7 @@ _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.
    * [discoveries-2016.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2016/discoveries-2016.csv)
 * [STEREO](https://github.com/mbiesiad/nasa-comets/tree/master/stereo/since-2016)
 
-# Drafts
+## Drafts
 
 I decided to create a [drafts](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016/2020/drafts) for _smaller_, partial updates - you can use use it before _main_ update for each year/month.
 If you want add, please name like in an example '[reports-2020-4-15.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2020/drafts/reports-2020-4-15.csv)' (date format: y-m-d; date of partial update post on the site), thanks!
