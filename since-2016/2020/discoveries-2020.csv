@@ -34,9 +34,9 @@ Soho#,Date/Time of Post,Discoverer,Tel,Group,Images of
 3922,Apr04 2020 11:52:57, K.Kida, C2,Kreutz,Apr04 2020
 3923,Apr04 2020 13:53:35, S.Liwo,C3 C2,Kreutz,Apr04-05 2020
 3924,Apr06 2020 09:27:28, W.Boonplod, C2,Kreutz,Apr06 2020
-3925,Apr09 2020 19:07:19, Boonplod/Uchina ,C2, Kreutz,Apr09 2020
+3925,Apr09 2020 19:07:19, Boonplod/Uchina, C2, Kreutz,Apr09 2020
 3926,Apr10 2020 01:24:16, W.Boonplod, C2,Kreutz,Apr10 2020
-3927*, Apr11 2020 12:12am,M.Uchina,C3 C2,Kreutz,Apr10-11 2020
+3927*, Apr10 2020 11:39pm,W.Boonplod,C3 C2,Kreutz,Apr10-11 2020
 3928,Apr16 2020 07:21:26, M.Uchina, C2,Kreutz,Apr14 2020 
 3929,Apr17 2020 10:13:28, K.Kida,C3 C2,Kreutz,Apr17-18 2020
 3930,Apr17 2020 11:12:21, M.Kusiak, C2,Kreutz,Apr17 2020
@@ -46,12 +46,12 @@ Soho#,Date/Time of Post,Discoverer,Tel,Group,Images of
 3934,Apr25 2020 08:29:39, Z.Cao,C2,Kreutz,Apr25 2020
 3935,Apr27 2020 08:49:21, M.Kusiak, C2,Kreutz,Apr27 2020
 3936,Apr29 2020 14:46:32, W.Boonplod, C2,Kreutz,Apr29 2020
-3937,Feb11 2020 05:37:29, P.Berrett,C2,Meyer, Jul31 2008
-3938,Apr23 2020 10:22:51, P.Berrett,C2,Meyer, Nov12 2010
+3937,Apr22 2020 14:21:00, Z.Xu,C3 C2,Kreutz,Apr22-23 2020
+3938,Feb11 2020 05:37:29, P.Berrett,C2,Meyer, Jul31 2008
 3939,Feb05 2020 08:07:04, P.Berrett,C2,Meyer, Jan29 2011
 3940,Feb03 2020 05:36:53, P.Berrett,C2,Meyer, Jun14 2012
 3941,Jan18 2020 01:07:57, P.Berrett,C2,Meyer, Jun20 2013
-3942,Jan18 2020 09:02:22, P.Berrett,C2,Meyer, Dec12 2013
+3942,Jan18 2020 09:02:22, P.Berrett,C2,Meyer, Dec10 2013
 3943,Jan18 2020 23:14:14, P.Berrett,C2,Kracht,Jun06 2014
 3944,Apr23 2020 18:35:27, T.Prestgard,C2,Kreutz,Mar27 2015
 3945,Jan31 2020 06:17:52, P.Berrett,C2,NonGrp,Feb19 2016
@@ -62,4 +62,4 @@ Soho#,Date/Time of Post,Discoverer,Tel,Group,Images of
 3950,Mar30 2020 15:17:25, T.Prestgard,C2,Kreutz,Apr18 2018
 3951,Mar30 2020 16:52:09, T.Prestgard,C2,Kreutz,Apr28 2018
 3952,Jan04 2020 09:48:42, P.Berrett,C2,Kracht,Feb25 2019
-
+3953*, Apr11 2020 05:37pm,W.Boonplod,C3 C2,Kreutz,Apr11-12 2020
