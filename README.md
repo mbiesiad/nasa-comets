@@ -123,6 +123,8 @@ I can't guarantee a 100% completeness and correctness of the data. I expressly r
 
 _If you want delete your name - please create an issue or contact with me directly._
 
+PS. It's not an _official_ Project repo.
+
 # Contributing
 
 Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
