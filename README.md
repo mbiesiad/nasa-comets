@@ -61,6 +61,10 @@ _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.
 I decided to create a [drafts](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016/2020/drafts) for _smaller_, partial updates - you can use use it before _main_ update for each year/month.
 If you want add, please name like in an example '[reports-2020-4-15.csv](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2020/drafts/reports-2020-4-15.csv)' (date format: y-m-d; date of partial update post on the site), thanks!
 
+Initial [confirmations](https://github.com/mbiesiad/nasa-comets/tree/master/since-2016/2020/drafts/initial-confirmations) - confirmed by other participants (with little different structure - see an [example](https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2020/drafts/initial-confirmations/2020-5.csv)).
+
+Drafts & initial confirmations should be created for next years in the same way (see 2020y example).
+
 ## [Kracht](https://github.com/mbiesiad/nasa-comets/tree/master/kracht)   
 * [kracht.csv](https://github.com/mbiesiad/nasa-comets/blob/master/kracht/kracht.csv)
 * [kracht-II.csv](https://github.com/mbiesiad/nasa-comets/blob/master/kracht/kracht-II.csv)
