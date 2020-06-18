@@ -158,4 +158,6 @@ Reports by @[Karl Battams](https://twitter.com/SungrazerComets) (Dr Sungrazer)
 
 Created by @[mbiesiad](https://github.com/mbiesiad) & supported by awesome [contributors](https://github.com/mbiesiad/nasa-comets/graphs/contributors)!
 
-Last updated: 30/5/2020
+See also another project about [my discoveries](https://github.com/mbiesiad/discoveries-biesiada).
+
+Last updated: 18/6/2020
