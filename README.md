@@ -160,4 +160,4 @@ Created by @[mbiesiad](https://github.com/mbiesiad) & supported by awesome [cont
 
 See also another project about [my discoveries](https://github.com/mbiesiad/discoveries-biesiada).
 
-Last updated: 18/6/2020
+Last updated: 1/7/2020
