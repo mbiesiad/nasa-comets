@@ -160,4 +160,6 @@ Created by @[mbiesiad](https://github.com/mbiesiad) & supported by awesome [cont
 
 See also another project about [my discoveries](https://github.com/mbiesiad/discoveries-biesiada).
 
+Project about SOHO & STEREO discoverers [here](https://github.com/mbiesiad/soho-comet-discoverers).
+
 Last updated: 1/7/2020
