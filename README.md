@@ -165,4 +165,4 @@ See also another project about [my discoveries](https://github.com/mbiesiad/disc
 
 Project about SOHO & STEREO discoverers [here](https://github.com/mbiesiad/soho-comet-discoverers).
 
-Last updated: 1/7/2020
+Last updated: 7/11/2020
