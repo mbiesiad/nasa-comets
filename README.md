@@ -25,6 +25,7 @@ _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.
     * [Marsden](#marsden)
     * [Meyer](#meyer)
     * [NonGroup](#nongroup)
+    * [X-Comets](#xcomets)
     * [STEREO](#stereo)
 * [JSON format](#json-format)
 * [Data](#data)
@@ -97,6 +98,8 @@ Drafts & initial confirmations should be created for next years in the same way 
 * [meyer.csv](https://github.com/mbiesiad/nasa-comets/blob/master/meyer/meyer.csv)
 ## NonGroup
 * [nongroup.csv](https://github.com/mbiesiad/nasa-comets/blob/master/nongroup/nongroup.csv)
+## X-Comets
+* [x-comets.csv](https://github.com/mbiesiad/nasa-comets/blob/master/x-comets/x-comets.csv)
 ## [STEREO](https://github.com/mbiesiad/nasa-comets/tree/master/stereo)
 * [stereo-secchi.csv](https://github.com/mbiesiad/nasa-comets/blob/master/stereo/stereo-secchi.csv)
     
