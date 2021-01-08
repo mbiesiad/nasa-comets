@@ -25,7 +25,7 @@ _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.
     * [Marsden](#marsden)
     * [Meyer](#meyer)
     * [NonGroup](#nongroup)
-    * [X-Comets](#xcomets)
+    * [X-Comets](#x-comets)
     * [STEREO](#stereo)
 * [JSON format](#json-format)
 * [Data](#data)
