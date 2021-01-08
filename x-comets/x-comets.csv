@@ -1,10 +1,10 @@
 No.,Date,Time of first image,#Images,Discoverer,Notes
-57, 2003/10/17,05:54,4,B Zhou,--,Probable Kreutz, Too faint/diffuse 
-56, 2006/07/14,04:30,3,T.Hoffman,--,Probable Kreutz, Looked good but too few images.
-55, 2006/04/08,09:32,3/4,J.Ruan,,--,Probable Kreutz, Too,few,images Inconsistent position(s).
-54, 2005/11/06,17:54,3/4,H.Su,--,Possible Kreutz, Too,few,images Inconsistent shape.
-52, 2004/12/09,18:42,(C3),5/6,R Matson,--,Probable Kreutz, Not enough images due to data gap.
-51, 2004/11/08,23:06,3/5,T Hoffman,--,Probable Non-group Faded -too quickly.
+57, 2003/10/17,05:54,4,B Zhou,--Probable Kreutz, Too faint/diffuse 
+56, 2006/07/14,04:30,3,T.Hoffman,--Probable Kreutz, Looked good but too few images.
+55, 2006/04/08,09:32,3/4,J.Ruan,,--Probable Kreutz, Too,few,images Inconsistent position(s).
+54, 2005/11/06,17:54,3/4,H.Su,--Possible Kreutz, Too,few,images Inconsistent shape.
+52, 2004/12/09,18:42,(C3),5/6,R Matson,--Probable Kreutz, Not enough images due to data gap.
+51, 2004/11/08,23:06,3/5,T Hoffman,--Probable Non-group Faded -too quickly.
 50, 2004/08/07,04:18,(C3),5/6,J Danaher	
 49, 2003/12/05,20:42,(C3),4/5,R Matson
 48, 2003/10/16,03:06,4,R Matson
@@ -45,7 +45,7 @@ No.,Date,Time of first image,#Images,Discoverer,Notes
 12, 1997/04/26,11:31	,,2,M Oates
 11, 1997/04/25,02:30,2,M Oates
 10, 1997/04/14,19:06	,,1,M Oates
-9 ,	1996/08/30,18:59,(C3),5/6,R.Kracht,--,Inconsistent positions -Variable brightness 
+9 ,	1996/08/30,18:59,(C3),5/6,R.Kracht,--Inconsistent positions -Variable brightness 
 8 ,	1996/05/19,07:29,1,M Oates
 7 ,	1996/05/13,13:46,2,M Oates
 6 ,	1996/05/12,18:30,2,M Oates
