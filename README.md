@@ -47,6 +47,9 @@ _C/2017 SOHO-3277  –  (New „Kreutz” group comet, C3) 2017/3/2_
 
 _Credits: ESA/NASA SOHO/LASCO Source: [Sungrazer Project](https://sungrazer.nrl.navy.mil/)_
 
+⚠️ _Update-1:_
+Things have changed in recent months. Now, the project has a new, awesome, modern style page with extended stats. I have some new ideas for bigger, more serious modifications here, but that will also depend on the time available, we'll see. Sorry if some data are not up-to-date at this moment, I'll think about what to do with it. Perhaps the project will be close soon. One thing is sure, the 'drafts' section (aka. initial-confirmations) is always useful here. Thanks for all, you're great! Let's stay in touch. Best wishes.
+
 ## CSV format
 
 ## Since 2016
