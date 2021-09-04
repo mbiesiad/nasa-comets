@@ -149,27 +149,36 @@ XC95,Jun30 20 15:21:37, M.Uchina, C2,Kreutz,Jun30 20
 4035,Jul31 20 19:01:40, W.Boonplod, C3,Kreutz,Jul31 20
 4036,Jul13 20 00:48:35, P.Berrett,C2,Meyer, Jun21-22 06
 4037,Jul06 20 11:21:31, P.Berrett,C2,Meyer, Feb16 12
-4038,Jul12 20 04:16:03, P.Berrett,C2,NonGrp,Jun14 12
-4039,May13 20 04:25:43, P.Berrett,C2,Meyer, Nov19 12
-4040,Jul04 20 11:03:18, P.Berrett,C2,Meyer, Jan23 13
-4041,May11 20 09:37:23, P.Berrett,C2,Meyer, Apr18 13
-4042,May11 20 03:30:36, P.Berrett,C2,Kracht,Jan18 15
-4043,Jul03 20 09:01:57, P.Berrett,C2,KrachtII?, Mar02 15
-4044,Jul11 20 12:09PM,P.Berrett,C2,Meyer, Jun20 15
-4045,Jul11 20 09:14AM,P.Berrett,C2,Meyer, Jun05 17
-4046,Jun21 20 07:03:33, P.Berrett,C2,Meyer, Apr11 20
-4047,Jun24 20 03:56:22, P.Berrett,C2,NonGrp,Aug17 08
-4048,Aug02 20 19:40:45, W.Boonplod, C3,Kreutz,Aug02 20
-4049,Aug06 20 00:28:58, W.Boonplod, C3/C2/H1,NonGrp,Aug05-09 20
-4050,Aug06 20 15:40:29, W.Boonplod,C3/C2,NonGrp,Aug06-07 20
-4051,Aug07 20 00:44:49, P.Berrett,C2,Meyer, Aug02 20
-4052,Aug07 20 08:27:36, W.Boonplod, C2,NonGrp,Aug07 20	
-4053,Aug11 20 17:51:34, M.Biesiada, C3,Kreutz,Aug11-12 20
-4054,Aug13 20 00:09:51, M.Uchina, C3,Kreutz,Aug13 20
-4055,Aug13 20 02:21:47, M.Uchina, C3,Kreutz,Aug13 20
-4056,Aug17 20 12:12:42, M.Biesiada, C3,Kreutz,Aug17 20
-4057,Aug21 20 17:31:47, S.Shurpakov, C3/C2/C2A,Kreutz,Aug21-22 20
-4058,Aug25 20 07:55:18, W.Boonplod, C2,Kracht,Aug24 20
-4059,Aug25 20 18:02:11, J.Liu/P.sun, C3/C2/C2A,Kreutz,Aug25-27 20
-4060,Aug29 20 03:12:33	,W.Boonplod, C3,Kreutz,Aug29 20
-4061,Aug31 20 00:16:34	,P.Sun,C3,Kreutz,Aug31 20
+4038,May11 20 09:37:23, P.Berrett,C2,Meyer, Apr18 13
+4039,May11 20 03:30:36, P.Berrett,C2,Kracht,Jan18 15
+4040,Jul03 20 09:01:57, P.Berrett,C2,KrachtII? Mar02 15,
+4041,Jul11 20 12:09PM,P.Berrett,C2,Meyer, Jun20 15
+4042,Jul11 20 09:14AM,P.Berrett,C2,Meyer, Jun05 17
+4043,Jun21 20 07:03:33, P.Berrett,C2,Meyer, Apr11 20
+4044,Jun24 20 03:56:22, P.Berrett,C2,NonGrp,Aug17 08
+4045,Aug02 20 19:40:45, W.Boonplod, C3,Kreutz,Aug02 20
+4046,Aug06 20 00:28:58, W.Boonplod, C3/C2/H1,NonGrp,Aug05-09 20
+4047,Aug06 20 15:40:29, W.Boonplod,C3/C2,NonGrp,Aug06-07 20
+4048,Aug07 20 00:44:49, P.Berrett,C2,Meyer, Aug02 20
+4049,Aug07 20 08:27:36, M.Uchina, C2,NonGrp,Aug07 20	
+4050,Aug11 20 17:51:34, M.Biesiada, C3,Kreutz,Aug11-12 20
+4051,Aug13 20 00:09:51, M.Uchina, C3,Kreutz,Aug13 20
+4052,Aug13 20 02:21:47, M.Uchina, C3,Kreutz,Aug13 20
+4053,Aug17 20 12:12:42, M.Biesiada, C3,Kreutz,Aug17 20
+4054,Aug21 20 17:31:47, S.Shurpakov, C3/C2/C2A,Kreutz,Aug21-22 20
+4055,Aug25 20 07:55:18, W.Boonplod, C2,Kracht,Aug24 20
+4056,Aug25 20 18:02:11, J.Liu/P.Sun, C3/C2/C2A,Kreutz,Aug25-27 20
+4057,Aug29 20 03:12:33	,W.Boonplod, C3,Kreutz,Aug29 20
+4058,Aug31 20 00:16:34	,P.Sun,C3,Kreutz,Aug31 20
+4059,Sep06 20 16:30:20, P.Sun,C3,NonGrp,Sep06-07 20
+4060,Sep09 20 00:39:24	,W.Boonplod, C3,Kreutz,Sep09 20
+4061,Sep09 20 05:35:19, P.Sun, C3 C2,Kreutz,Sep09-10 20
+4062,Sep10 20 06:36:07, P.Sun, C3 C2,Kreutz,Sep10-11 20
+4063,Sep13 20 17:18:43, W.Boonplod,C3 C2,Kreutz,Sep13-15 20
+4064,Sep13 20 20:03:11, P.Sun, C3 C2,Meyer, Sep13-14 20
+4065,Sep15 20 16:14:35, M.Uchina,C3 C2,Kreutz,Sep15 20
+4066,Sep16 20 12:25:11, M.Biesiada,C3 C2,Kreutz,Sep16 20
+4067,Sep24 20 18:21:54, W.Boonplod, C3,Kreutz,Sep24 20
+4068,Sep27 20 10:35:09, S.Shurpakov, C3 C2,Kreutz,Sep27-28 20
+4069,Sep29 20 16:15:54, P.Sun, C3 C2,Kreutz,Sep29-30 20
+4070,Sep30 20 11:26:02, W.Boonplod,C3 C2,Kreutz,Sep30 20
