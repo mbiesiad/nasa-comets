@@ -167,12 +167,12 @@ Free [MIT](LICENSE) license.
 
 __________________________________________________
 
-Reports by @[Karl Battams](https://twitter.com/SungrazerComets) (Dr Sungrazer)
+Reports (final approvals) by @[Karl Battams](https://twitter.com/SungrazerComets) (Dr Sungrazer)
 
-Created by @[mbiesiad](https://github.com/mbiesiad) & supported by awesome [contributors](https://github.com/mbiesiad/nasa-comets/graphs/contributors)!
+Created by @[mbiesiad](https://github.com/mbiesiad).
 
 See also another project about [my discoveries](https://github.com/mbiesiad/discoveries-biesiada).
 
 Project about SOHO & STEREO discoverers [here](https://github.com/mbiesiad/soho-comet-discoverers).
 
-Last updated: 7/11/2020
+Last updated: 4/7/2022
