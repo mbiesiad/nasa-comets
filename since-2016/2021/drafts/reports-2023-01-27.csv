@@ -1,14 +1,14 @@
 Soho#,Date/Time of Post,Discoverer,Tel,Group,Images of...
 4552,Nov03 22 04:40:41,Z.Yang,C2,Kreutz,Nov03 22
 4553,Nov03 22 18:58:46,J.Ruan,C2,Kreutz,Nov03 22
-4554,Nov04 22 16:27:48,W.Boonplod, H1 C3 C2A C2 Kreutz,Nov03-06 22
-4555,Nov05 22 16:34:39,W.Boonplod, H1 C3 C2A C2 Kreutz,Nov04-07 22
+4554,Nov04 22 16:27:48,W.Boonplod, H1 C3 C2A C2, Kreutz,Nov03-06 22
+4555,Nov05 22 16:34:39,W.Boonplod, H1 C3 C2A C2, Kreutz,Nov04-07 22
 4556,Nov05 22 21:40:03,Z.Yang,C2,Kreutz,Nov06 22
 4557,Nov06 22 02:22:13,J.Ruan,C2,Kreutz,Nov05-06 22
 4558,Nov06 22 13:28:03,J.Ruan,C2,Kreutz,Nov06 22
 4559,Nov07 22 00:47:45,Z.Yang,C2,Kreutz,Nov06-07 22
 4560,Nov07 22 00:55:35,Z.Yang,C2,Meyer,Nov06-07 22
-4561,Nov07 22 11:54:08,Z.Yang, H1 C3 C2A C2 Kreutz,Nov06-09 22
+4561,Nov07 22 11:54:08,Z.Yang, H1 C3 C2A C2, Kreutz,Nov06-09 22
 4562,Nov07 22 21:41:46,Z.Yang,C2,Kreutz,Nov08 22
 4563,Nov08 22 11:13:22,J.Ruan,H1 C3 C2,Kreutz,Nov08-09 22
 4564,Nov09 22 01:30:32,R.Pickard,C2,Kreutz,Nov09 22
@@ -18,17 +18,17 @@ Soho#,Date/Time of Post,Discoverer,Tel,Group,Images of...
 4568,Nov11 22 02:52:30,Z.Yang,,C3 C2, Kreutz,Nov11 22
 4569,Nov14 22 09:17:46,Z.Yang,C2,Kreutz,Nov14 22
 4570,Nov15 22 03:31:46,Z.Yang,C2,Kreutz,Nov15 22
-4571,Nov15 22 16:43:29,W.Boonplod,,C2,Meyer,Nov15 22
+4571,Nov15 22 16:43:29,W.Boonplod,C2,Meyer,Nov15 22
 4572,Nov17 22 07:16:10,Yang /Ruan /Gu,C2,Kreutz,Nov17 22
 4573,Nov19 22 01:29:47,Z.Yang,C2,Kreutz,Nov19 22
 4574,Nov19 22 22:54:28,Z.Yang,C2,Kreutz,Nov20 22
 4575,Nov20 22 01:29:54,Z.Yang /H.Tan,C2,Kreutz,Nov20 22
 4576,Nov20 22 16:30:48,H.Tan, C2,Kreutz,Nov20 22
 4577,Nov22 22 02:19:07,Z.Yang,C2,Kreutz,Nov22 22
-4578,Nov23 22 19:37:33,W.Boonplod,,C2,Meyer,Nov23 22
+4578,Nov23 22 19:37:33,W.Boonplod,C2,Meyer,Nov23 22
 4579,Nov24 22 03:54:58,Z.Yang,C2,Kreutz,Nov24 22
 4580,Nov24 22 22:28:23,Pickard/ Yang,C2,Kreutz,Nov25 22
-4581,Nov25 22 09:13:16,Z.Yang,,C3 C2, Kreutz,Nov25-26 22
+4581,Nov25 22 09:13:16,Z.Yang,C3 C2, Kreutz,Nov25-26 22
 4582,Nov25 22 10:09:41,J.Ruan,C2,Kreutz,Nov25 22
 4583,Nov28 22 13:29:35,J.Ruan,C2,NonGrp,Nov28-29 22
 4584,Nov29 22 23:16:55,H.Tan, C2,Kreutz,Nov30 22
